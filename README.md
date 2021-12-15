@@ -1,6 +1,6 @@
 /*Copyright © 2021. Kaica Tecnology | Kaica Soluciones Tecnológicas | All rights reserved. Design By: Kevin Perea*/
 
-<!-- Kaica Tecnology is my personal project where I create and develop projects in different programming languages, the main one is php -->
+-- Kaica Tecnology is my personal project where I create and develop projects in different programming languages, the main one is php --
 
 
 Pulidadepisos.com
